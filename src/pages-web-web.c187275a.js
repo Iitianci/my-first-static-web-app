@@ -1,1 +1,0 @@
-import{o as s,c as e,w as r,j as a,b as t,ad as n}from"./index-f5cba0e4.js";import{_ as o}from"./_plugin-vue_export-helper.1b428a4d.js";const l=o({data:()=>({web_url:"https://mp.weixin.qq.com/s/iGeZ4aw5TLF3Apm3MXnEWA"})},[["render",function(o,l,u,p,i,c){const m=n,d=a;return s(),e(d,null,{default:r((()=>[t(m,{src:i.web_url},null,8,["src"])])),_:1})}]]);export{l as default};
